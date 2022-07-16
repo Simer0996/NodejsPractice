@@ -1,0 +1,12 @@
+{
+  "name": "NodejsPractice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Simer0996/NodejsPractice.git",
+  "author": "Simer <singhsimer09@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
